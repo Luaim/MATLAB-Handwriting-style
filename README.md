@@ -66,7 +66,3 @@ The app allows users to:
 
 ---
 
-
-## 📘 License
-
-This project is for educational purposes and is not licensed for commercial use.
